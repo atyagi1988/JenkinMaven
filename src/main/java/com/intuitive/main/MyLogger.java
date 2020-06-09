@@ -9,12 +9,9 @@ public class MyLogger {
 	public static void main(String[] args) {
 		
 		log.debug("I am in debug logger");
-		log.debug("I am in debug logger new ");
-		log.debug("I am in debug logger latest");
-		log.debug("I am in debug logger 3");
-		log.debug("I am in debug logger 4");
 		
 		log.info("I ma in log info");
+		log.info("I am in main method");
 
 	}
 
